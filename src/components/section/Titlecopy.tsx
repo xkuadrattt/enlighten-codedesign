@@ -7,7 +7,7 @@ export default function Titlecopy() {
         role="badge"
         className="tracking-wide text-sm font-bold text-accent uppercase px-4 py-2 bg-accent/10 w-fit rounded-xl"
       >
-        cooming soon
+        coming soon
       </span>
       <h1 className="text-primary font-bold text-3xl max-w-[28.5rem] md:text-5xl leading-tight">
         Get your dancing shoes ready
